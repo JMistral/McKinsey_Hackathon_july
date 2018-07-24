@@ -12,3 +12,10 @@ In addition to the information above, the client has provided the following rela
 2. Expected increase in chances of renewal, given the effort from the agent.
 
 Given the information, the client wants you to predict the propensity of renewal collection and create an incentive plan for agents (at policy level) to maximise the net revenues from these policies.
+
+Your solutions will be evaluated on 2 criteria:
+
+1. The base probability of receiving a premium on a policy without considering any incentive
+2. The monthly incentives you will provide on each policy to maximize the net revenue 
+
+_Note: it's a regression and a optimization problem._
